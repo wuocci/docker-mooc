@@ -1,0 +1,16 @@
+hanneswuorinen@Hanness-Mini ~ % docker images
+REPOSITORY                          TAG       IMAGE ID       CREATED        SIZE
+ubuntu                              latest    d5ca7a445605   4 weeks ago    65.6MB
+ubuntu                              18.04     7266638574fb   4 weeks ago    56.6MB
+devopsdockeruh/simple-web-service   ubuntu    4e3362e907d5   8 months ago   83MB
+devopsdockeruh/simple-web-service   alpine    fd312adc88e0   8 months ago   15.7MB
+hanneswuorinen@Hanness-Mini ~ %
+
+
+hanneswuorinen@Hanness-Mini ~ % docker exec -it  alpine tail -f ./text.log
+2021-11-16 14:07:54 +0000 UTC
+2021-11-16 14:07:56 +0000 UTC
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
+2021-11-16 14:07:58 +0000 UTC
+2021-11-16 14:08:00 +0000 UTC
+2021-11-16 14:08:02 +0000 UTC

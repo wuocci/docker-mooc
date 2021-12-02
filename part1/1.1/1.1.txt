@@ -1,0 +1,5 @@
+@Hanness-Mini ~ % docker ps -a
+CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS                      PORTS     NAMES
+46247e2f0d3e   nginx     "/docker-entrypoint.…"   51 seconds ago   Exited (0) 12 seconds ago             gifted_perlman
+60f852a904d2   nginx     "/docker-entrypoint.…"   54 seconds ago   Exited (0) 2 seconds ago              kind_liskov
+3b7e020ec39f   nginx     "/docker-entrypoint.…"   2 minutes ago    Up 2 minutes                80/tcp    focused_saha
