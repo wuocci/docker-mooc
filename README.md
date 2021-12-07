@@ -1,2 +1,2 @@
 # docker-mooc
-Docker course exercices from mooc
+Docker course from Helsingin Yliopisto MOOC
