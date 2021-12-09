@@ -1,0 +1,6 @@
+We have a MERN stack CRUD application which I had already made containers in the part 1 section and now I wanted to make docker-compose file there also. 
+
+There is now a frontend, backend and mongodb containers from the project.
+
+The docker-compose file is also in this folder.
+
